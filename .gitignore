@@ -1,2 +1,2 @@
-dsl_ast/.gradle
-dsl_ast/build
+.gradle
+build
