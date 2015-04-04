@@ -1,0 +1,3 @@
+*.class
+application/build
+ast/build
